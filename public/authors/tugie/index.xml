@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tugie on V.Tugie</title>
+    <link>/authors/tugie/</link>
+    <description>Recent content in Tugie on V.Tugie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tugie</copyright>
+    
+	<atom:link href="/authors/tugie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>Victor Mutugi is an environmentalist who is driven to ensure green ecosystems for mankind and the diverse biodiversity, while focusing on the sustainable use of the ecosystem resoures. Technology is the key to making the change.</description>
+    </item>
+    
+  </channel>
+</rss>
